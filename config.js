@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/winlofi' //gắn link facebook vào đây 
+    messLink: 'https://www.facebook.com/chieu.vo.7798574?mibextid=ZbWKwL' //gắn link facebook vào đây 
 }
